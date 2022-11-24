@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuralpSim", "GuralpSim\GuralpSim.csproj", "{D29D21E7-FACB-407E-BAD4-1493D47D4143}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GuralpSim_Setup", "GuralpSim_Setup\GuralpSim_Setup.vdproj", "{C149F910-87FC-4F56-9574-566B106EB277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29D21E7-FACB-407E-BAD4-1493D47D4143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29D21E7-FACB-407E-BAD4-1493D47D4143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29D21E7-FACB-407E-BAD4-1493D47D4143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29D21E7-FACB-407E-BAD4-1493D47D4143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C149F910-87FC-4F56-9574-566B106EB277}.Debug|Any CPU.ActiveCfg = Debug
+		{C149F910-87FC-4F56-9574-566B106EB277}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

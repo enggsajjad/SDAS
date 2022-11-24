@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\Desktop\071210\ZedGraphSampleCS_v5.0.9\ZedGraphSample\bin\Debug\ZedGraphSample.exe
+C:\Documents and Settings\Administrator\Desktop\071210\ZedGraphSampleCS_v5.0.9\ZedGraphSample\bin\Debug\ZedGraphSample.pdb
+C:\Documents and Settings\Administrator\Desktop\071210\ZedGraphSampleCS_v5.0.9\ZedGraphSample\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrator\Desktop\071210\ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\071210\ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ZedGraphSample.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\071210\ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ZedGraphSample.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\071210\ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ZedGraphSample.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\071210\ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ZedGraphSample.exe
+C:\Documents and Settings\Administrator\Desktop\071210\ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ZedGraphSample.pdb
+C:\Documents and Settings\Administrator\Desktop\071210\EDAS\obj\Debug\ZedGraphSample.exe
+C:\Documents and Settings\Administrator\Desktop\071210\EDAS\obj\Debug\ZedGraphSample.pdb
+C:\Documents and Settings\Administrator\Desktop\071210\EDAS\bin\Debug\ZedGraphSample.exe
+C:\Documents and Settings\Administrator\Desktop\071210\EDAS\bin\Debug\ZedGraphSample.pdb
+C:\Documents and Settings\Administrator\Desktop\071210\EDAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\071210\EDAS\obj\Debug\ZedGraphSample.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\071210\EDAS\obj\Debug\ZedGraphSample.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\071210\EDAS\obj\Debug\ZedGraphSample.csproj.GenerateResource.Cache

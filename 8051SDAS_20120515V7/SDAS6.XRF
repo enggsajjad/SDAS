@@ -1,0 +1,84 @@
+WIN32 L51 CODE BANKING LINKER/LOCATOR V4.08.06,  INVOKED BY: 
+L51.EXE e:\p\sdas\2012\8051sdas_20120515v7\main.OBJ  to  E:\P\SDAS\2012\8051SDAS_20120515V7\SDAS6.ABS PR(E:\P\SDAS\2012\8051SDAS_20120515V7\SDAS6.M51) SN(1066142959415E46769E694) PW(80) RS(256) ix 
+
+INTER-MODULE CROSS-REFERENCE LISTING
+------------------------------------
+
+    NAME. . . . . . . . USAGE   MODULE NAMES
+    ----------------------------------------
+    ?C_IMUL . . . . . . CODE    [MULS]:  MAIN 
+    ?C_IMULX  . . . . . CODE    [MULS]: 
+    ?C_INITSEGSTART . . CODE    [_C_INITD]:  C1S 
+    ?C_LADD . . . . . . CODE    [LADD]:  MAIN 
+    ?C_LOP  . . . . . . CODE    [COML]:  LADD 
+    ?C_LSHL . . . . . . CODE    [SHIFT_L]:  MAIN 
+    ?C_LUSHR  . . . . . CODE    [SHIFT_LU]:  MAIN 
+    ?C_SIDIV  . . . . . CODE    [DIVS]: 
+    ?C_START1 . . . . . CODE    [C1S]:  MAIN 
+    ?C_UIDIV  . . . . . CODE    [DIVS]:  MAIN 
+    ASCII_POSITION  . . IDATA   [MAIN]: 
+    B1  . . . . . . . . DATA    [MAIN]: 
+    B2  . . . . . . . . DATA    [MAIN]: 
+    COMBINED_POSITION . IDATA   [MAIN]: 
+    COMMANDS  . . . . . DATA    [MAIN]: 
+    CONVERT2GCF . . . . CODE    [MAIN]: 
+    CPL_R4R5  . . . . . CODE    [DIVS]: 
+    CPL_R6R7  . . . . . CODE    [DIVS]: 
+    DAY . . . . . . . . DATA    [MAIN]: 
+    DELAYONEMS  . . . . CODE    [MAIN]:  MAIN 
+    DIV_2 . . . . . . . CODE    [DIVS]: 
+    GETC  . . . . . . . CODE    [MAIN]: 
+    GMT_OFFSET  . . . . IDATA   [MAIN]: 
+    GPSDAY  . . . . . . IDATA   [MAIN]: 
+    GPSHOUR . . . . . . IDATA   [MAIN]: 
+    GPSMINUTE . . . . . IDATA   [MAIN]: 
+    GPSMONTH  . . . . . IDATA   [MAIN]: 
+    GPSSECOND . . . . . IDATA   [MAIN]: 
+    GPSYEAR . . . . . . IDATA   [MAIN]: 
+    GPS_TIME  . . . . . IDATA   [MAIN]: 
+    I2C_CLOCK . . . . . CODE    [MAIN]: 
+    I2C_DELAY . . . . . CODE    [MAIN]: 
+    I2C_NOACK . . . . . CODE    [MAIN]: 
+    I2C_READ  . . . . . CODE    [MAIN]: 
+    I2C_START . . . . . CODE    [MAIN]: 
+    I2C_STOP  . . . . . CODE    [MAIN]: 
+    IDATALEN  . . . . .         [_C_IDATALEN]:  C1S 
+    INITDISP  . . . . . CODE    [MAIN]: 
+    IPGN1?C . . . . . . CODE    [IPGN1]:  MAIN 
+    LCDBUSY . . . . . . CODE    [MAIN]: 
+    LCDCLEAR  . . . . . CODE    [MAIN]: 
+    LSECONDS  . . . . . DATA    [MAIN]: 
+    LUT . . . . . . . . DATA    [MAIN]: 
+    MAIN  . . . . . . . CODE    [MAIN]:  C1S 
+    MV4_I02RG?C . . . . CODE    [MV_I02RG4]:  MAIN 
+    RST_STK4?C  . . . . CODE    [RST_STK]:  LADD 
+    RST_STK6?C  . . . . CODE    [RST_STK]: 
+    RST_STK7?C  . . . . CODE    [RST_STK]: 
+    RST_STK?C . . . . . CODE    [RST_STK]: 
+    RXCNTR  . . . . . . DATA    [MAIN]: 
+    RXFLAG  . . . . . . DATA    [MAIN]: 
+    RXSTATE . . . . . . DATA    [MAIN]: 
+    SDATA . . . . . . . DATA    [MAIN]: 
+    SERIAL_ISR  . . . . CODE    [MAIN]: 
+    SHORT_POSITION  . . IDATA   [MAIN]: 
+    SITE_ID . . . . . . DATA    [MAIN]: 
+    SITE_ID_Q . . . . . DATA    [MAIN]: 
+    SITE_ID_R . . . . . DATA    [MAIN]: 
+    STATE . . . . . . . DATA    [MAIN]: 
+    TEMP  . . . . . . . DATA    [MAIN]: 
+    TEMPL . . . . . . . DATA    [MAIN]: 
+    TIMEWINDOW  . . . . CODE    [MAIN]: 
+    TRACKCOUNT  . . . . DATA    [MAIN]: 
+    TRACK_SATELITES . . DATA    [MAIN]: 
+    VIS_SATELITES . . . DATA    [MAIN]: 
+    _DISPSTR  . . . . . CODE    [MAIN]: 
+    _I2C_WRITE  . . . . CODE    [MAIN]: 
+    _INITP2?  . . . . .         [_C_IDATALEN]:  C1S 
+    _LCDCURSOR  . . . . CODE    [MAIN]: 
+    _ROM_READ . . . . . CODE    [MAIN]: 
+    _ROM_WRITE  . . . . CODE    [MAIN]: 
+    _SENDCHAR . . . . . CODE    [MAIN]: 
+    _SENDSTR  . . . . . CODE    [MAIN]: 
+    _STACK  . . . . . . IDATA   [MAIN]:  C1S 
+    _WRITECONTROL . . . CODE    [MAIN]: 
+    _WRITEDATA  . . . . CODE    [MAIN]: 
